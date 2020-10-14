@@ -6,8 +6,7 @@
 
     ```shell
     cd main
-    PYTHONIOENCODING=utf-8 python3 -u run_model.py train trai
-    -sample_layer_size 2 -epochs 100
+    PYTHONIOENCODING=utf-8 python3 -u run_model.py train -sample_layer_size 2 -epochs 100
     ```
 
 - Augment
